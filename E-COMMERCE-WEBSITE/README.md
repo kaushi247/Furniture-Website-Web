@@ -31,7 +31,7 @@ An e-commerce platform developed using **HTML**, **CSS**, and **JavaScript**, wi
 
 ## ⚙️ How to Run Locally
 1. Clone the repository:
-   git clone https://github.com/sar07thak/E-COMMERCE-WEBSITE.git
+   git clone https://github.com/kaushi247/Furniture-Website-Web.git
 2. Navigate to the project directory:
    cd E-COMMERCE-WEBSITE
 3. Open index.html in a browser:
